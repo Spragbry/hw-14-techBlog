@@ -21,3 +21,27 @@ body {
     margin-bottom: 5px;
     margin-left: 0;
 }
+
+.form-input {
+    color: rgb(208, 4, 208);
+}
+
+#email-login {
+    color: rgb(5, 250, 107)
+}
+
+#password-login {
+    color:rgb(5, 250, 107)
+}
+
+#name-signup {
+    color:rgb(5, 250, 107)
+}
+
+#email-signup {
+    color:rgb(5, 250, 107)
+}
+
+#password-signup {
+    color: rgb(5, 250, 107);
+}
